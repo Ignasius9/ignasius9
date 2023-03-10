@@ -4,10 +4,8 @@
 - I'm Currently Studying at Universitas Multi Data Palembang
   (https://mdp.ac.id/)
 - I'm currently Learning Phyton, JavaScript, C++, HTML
-- Ask me anything in [HERE] 
-  (https://instragram.com/ignasiusfelix_07
 - How to reach me :
-  [Ignaiusfelix56@mhs.mdp.ac.id]
+  **Ignaiusfelix56@mhs.mdp.ac.id**
 
 ## Languages And Tools :
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
