@@ -10,11 +10,11 @@
   [Ignaiusfelix56@mhs.mdp.ac.id]
 
 ## Languages And Tools :
-- [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-- [<img align="Left" alt="C++" width="30px" src="https://img1.pnghut.com/8/18/6/bxvE1KeDqf/logo-symbol-computer-programming-language.jpg" style="padding-right:20px;" />]
-- [<img align="Left" alt="Phyton" width="30px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" style="padding-right:20px;" />]
-- [<img align="Left" alt="HTML" width="30px" src="https://mcdevittsites.com/wp-content/uploads/2019/12/HTML5-1024x1024.png" style="padding-right:50px;" />]
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="Left" alt="C++" width="30px" src="https://img1.pnghut.com/8/18/6/bxvE1KeDqf/logo-symbol-computer-programming-language.jpg" style="padding-right:20px;" />
+<P><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><p align="left"></p> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+
 
 ## Connect With Me:
-[![website](./img/instagram-light.svg)](https://instagram.com/ignasiusfelix_07#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/ignasiusfelix_07#gh-dark-mode-only)
+<a href="https://instagram.com/ignasiusfelix_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ignasiusfelix_07" height="30" width="40" /></a>
