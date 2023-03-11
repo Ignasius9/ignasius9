@@ -3,7 +3,7 @@
 ## About me:
 - I'm Currently Studying at Universitas Multi Data Palembang
   (https://mdp.ac.id/)
-- I'm currently Learning Phyton, JavaScript, C++, HTML
+- I'm currently Learning MySQL, Phyton, JavaScript, C++, HTML
 - How to reach me :
   **Ignaiusfelix56@mhs.mdp.ac.id**
 
